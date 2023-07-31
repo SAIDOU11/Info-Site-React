@@ -1,0 +1,8 @@
+Why React
+
+-It's composable
+    Sculting, small pieces to create something greater.
+
+- It's declarative
+    What should be done
+
