@@ -1,5 +1,7 @@
 Why React
 
+- Think of Component ..Think of function
+
 -It's composable
     Sculting, small pieces to create something greater.
 
